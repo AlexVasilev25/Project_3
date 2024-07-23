@@ -48,6 +48,7 @@ git clone https://github.com/AlexVasilev25/Project_3
 ## Авторы
 
 * [Александр Васильев](https://t.me/alex_vasilev13)
+* [Моя страница на Kaggle](https://www.kaggle.com/alexandr25)
 
 [К оглавлению](#Оглавление)
 
