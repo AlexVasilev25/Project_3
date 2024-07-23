@@ -27,7 +27,6 @@
 Вся остальная информация о проекте представлена в jupyter-ноутбуке [PROJECT-3.IPYNB](./PROJECT-3.IPYNB).
 
 **О структуре проекта:**
-* [data](./data) - папка с исходными данными
 * [images](./images) - папка с изображениями, необходимыми для проекта 
 * [predict_submission.csv](./predict_submission.csv) - итоговый файл с предсказанными рейтингами
 * [PROJECT-3.IPYNB](./PROJECT-3.IPYNB) - jupyter-ноутбук, содержащий основной код проекта.
